@@ -1,8 +1,8 @@
 ---
 # banner
 banner:
-  title: "Andromeda is the most intuitive way to prototype Designs"
-  button: "Get Premium Version"
+  title: "Hugotion will power your next website"
+  button: "Get started now ->"
   button_link: "https://gethugothemes.com/products/andromeda/"
   image: "images/banner-app.png"
 
